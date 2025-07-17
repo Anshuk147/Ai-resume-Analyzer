@@ -95,8 +95,14 @@ Local URL: `http://localhost:5173`
 ---
 
 ## 📸 Screenshots
+## Initial UI
 ![App Screenshot](./screenshots/Capture.PNG)
+*Description: This is how the app looks when you first launch it.*
+
+
+## Results
 ![App Screenshot](./screenshots/Capture2.PNG)
+*Description: Example output after analyzing a resume.*
 
 
 
