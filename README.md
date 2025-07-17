@@ -95,22 +95,10 @@ Local URL: `http://localhost:5173`
 ---
 
 ## 📸 Screenshots
+![App Screenshot](./screenshots/CAPTURE.png)
+![App Screenshot](./screenshots/CAPTURE2.png)
 
-> Add screenshots to `/screenshots` folder and embed them like below:
 
-```
-![Upload Page](./screenshots/upload.png)
-```
-
----
-
-## 📽️ Demo Video
-
-> Optional: Link to Loom or YouTube walkthrough here
-
-[🎥 Watch Demo](https://your-video-link.com)
-
----
 
 ## 👤 Author
 
