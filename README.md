@@ -95,8 +95,8 @@ Local URL: `http://localhost:5173`
 ---
 
 ## 📸 Screenshots
-![App Screenshot](./screenshots/Capture.png)
-![App Screenshot](./screenshots/Capture2.png)
+![App Screenshot](./screenshots/Capture.PNG)
+![App Screenshot](./screenshots/Capture2.PNG)
 
 
 
